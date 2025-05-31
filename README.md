@@ -2,7 +2,7 @@
 2. Ceated only using HTML & CSS.
 3. used Flexbox, media queries, buttons, h1, h2, etc.
 4. Made resposive can be viewed in multiplr devices.
-5.Below are the screenshots of Website:
+5. Below are the screenshots of Website:
 
 6. Hero Section:
 ![alt text](images/Screenshot-one.png)
